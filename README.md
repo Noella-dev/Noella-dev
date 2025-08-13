@@ -1,3 +1,6 @@
+<img width="100%" src="back.jpg" alt="header image for Noella github profile">
+
+
 <h1 align="center">Hi 👋, I'm Noella Manohisitraka</h1>
 <h4 align="center">A web developer with a passion for frontend development and UI/UX design.</h4>
 
