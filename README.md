@@ -1,12 +1,21 @@
 <h1 align="center">Hi 👋, I'm Noella Manohisitraka</h1>
 <h4 align="center">A web developer with a passion for frontend development and UI/UX design.</h4>
 
-<br />
+### 👩 About Me 
 
-🧭 I see technology as a vast, ever-shifting landscape — full of uncharted zones, hidden gems, and unsolved mysteries.<br />
-🌐 The world of the web holds no secrets for me — I master it from front to back.<br />
-💡 I’m not here to follow the map — I’m here to draw new ones.<br />
-🤖 Currently exploring the wild terrains of Machine Learning and intelligent systems. <br />
-🛠️ I build projects like expeditions: with curiosity as fuel, and bugs as obstacles to overcome.<br />
-🌱 I believe every line of code is a step forward — even when the path isn’t clear.<br />
-💬 If you’re also charting unknown digital territory, let’s connect and share the journey.<br />
+- I'm a passionate and motivated web developer, fully committed to every project I take on.
+-  Detail-oriented and eager to keep learning, I value the quality and impact of the work I deliver. 
+- I especially enjoy working as part of a team - sharing ideas, collaborating, and building solutions that are both functional and visually appealing, with a strong interest in frontend development and UI/UX design.
+
+
+### 💻 Tech Stack:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+
+### 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Noella-dev&theme=dark&hide_border=false)
+
+### ✍️ Random Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
