@@ -1,4 +1,4 @@
-<img width="100%" src="tendances-developpement-web.jpg" alt="header image for Noella github profile">
+<img width="100%" src="tendances-developpement-web.jpg">
 
 
 <h1 align="center">Hi 👋, I'm Noella Manohisitraka</h1>
