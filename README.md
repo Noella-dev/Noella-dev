@@ -1,4 +1,4 @@
-<img width="100%" src="tendances-developpement-web.jpg" height="250px">
+<img width="100%" src="tendances-developpement-web.jpg" height="250px" width="150px">
 
 
 <h1 align="center">Hi 👋, I'm Noella Manohisitraka</h1>
