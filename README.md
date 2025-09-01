@@ -1,8 +1,4 @@
-<img width="100%" src="tendances-developpement-web.jpg" height="250px" width="150px">
-
-
-<h1 align="center">Hi 👋, I'm Noella Manohisitraka</h1>
-<h4 align="center">A web developer with a passion for frontend development and UI/UX design.</h4>
+<img width="100%" src="page.png" height="250px" width="150px">
 
 ### 👩 About Me 
 
@@ -13,7 +9,7 @@
 
 ### 💻 Tech Stack:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white) ![Php](https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats:
 
