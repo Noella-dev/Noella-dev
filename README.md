@@ -1,12 +1,12 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=white&center=true&vCenter=true&width=550&lines=Hi+👋+I'm+Noëlla+Manohisitraka;Front-end+Developer+%7C+UI%2FUX+Designer;Creative+and+Passionate+Web+Developer" 
-    alt="Typing SVG" 
-  />
  <img 
     src="femme_developer.gif" 
     alt="Woman Coding GIF" 
     width="550" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=white&center=true&vCenter=true&width=550&lines=Hi+👋+I'm+Noëlla+Manohisitraka;Front-end+Developer+%7C+UI%2FUX+Designer;Creative+and+Passionate+Web+Developer" 
+    alt="Typing SVG" 
+  />
 </p>
 
 
