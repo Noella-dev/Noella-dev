@@ -1,16 +1,13 @@
-<div style="position: relative; width: 600px; margin: 0 auto;">
+<p align="center">
   <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=white&center=true&vCenter=true&width=550&lines=Hi+👋+I'm+Noëlla+Manohisitraka;Front-end+Developer+%7C+UI%2FUX+Designer;Creative+and+Passionate+Web+Developer" 
+    alt="Typing SVG" 
+  />
+ <img 
     src="femme_developer.gif" 
     alt="Woman Coding GIF" 
-    style="display: block; width: 200%; height: auto;"
-  />
-
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
-    <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=white&center=true&vCenter=true&width=550&lines=Hi+👋+I'm+Noëlla+Manohisitraka;Front-end+Developer+%7C+UI%2FUX+Designer;Creative+and+Passionate+Web+Developer" alt="Typing SVG" />
-    </p>
-  </div>
-</div>
+    width="550" />
+</p>
 
 
 ### 👩 About Me 
